@@ -1,4 +1,4 @@
-#Social Media Engagement Analysis
+# Social Media Engagement Analysis
 
 ## Project Type
 Self-initiated learning project
@@ -33,4 +33,3 @@ Basic insights about which type of content receives higher engagement and how en
 - Basic data interpretation
 - Structuring analysis logically
 
-Fix README title formatting
